@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
